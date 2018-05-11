@@ -1,0 +1,20 @@
+
+body {
+    background-image: url("/Users/robbyheenan/Desktop/code/Basic-Portfolio/assets/images/dark-grey-terrazzo/dark-grey-terrazzo.png");
+}
+header {
+    background-color: white
+}
+.nameHeader {
+    background-color: #4aaa;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-right: 800px;
+    margin-top: 10px;
+}
+
+.topNav {
+    text-align: right;
+}

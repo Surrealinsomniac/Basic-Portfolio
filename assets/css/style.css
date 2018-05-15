@@ -1,20 +1,63 @@
 
 body {
-    background-image: url("/Users/robbyheenan/Desktop/code/Basic-Portfolio/assets/images/dark-grey-terrazzo/dark-grey-terrazzo.png");
+     background-image: url("/Users/robbyheenan/Desktop/code/Basic-Portfolio/assets/images/dark-grey-terrazzo/dark-grey-terrazzo.png");
 }
 header {
-    background-color: white
+    background-color: white;
+    height:50px;
+    width:100%;
+    padding-top: 10px;
+    margin-bottom: 10px;
 }
 .nameHeader {
+    display:inline-block;
     background-color: #4aaa;
     color: white;
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 40px;
     margin-left: 100px;
-    margin-right: 800px;
+    margin-right: 200px;
     margin-top: 10px;
 }
 
 .topNav {
-    text-align: right;
+    display:inline-block;
+    margin-right: 100px;
+    padding-bottom: 20px;
+
+
+}
+
+a.link {
+    color:red;
+}
+
+#aboutMe{
+    background-color: white;
+    margin-left: 100px;
+    height: 500px;
+    width: 960px;
+    padding-top: 20px;
+}
+
+#profilePic {
+    margin-left: 20px;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+h2 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: black;
+    border-bottom: black;
+    border-bottom-style: solid;
+
+}
+
+p {
+    color: black;
 }

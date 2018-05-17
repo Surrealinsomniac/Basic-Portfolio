@@ -23,22 +23,67 @@ header {
 .topNav {
     display:inline-block;
     margin-right: 100px;
+    margin-left: 300px;
     padding-bottom: 20px;
 
 
 }
 
-a.link {
-    color:red;
-}
 
-#aboutMe{
+.aboutContent{
     background-color: white;
     margin-left: 100px;
     height: 500px;
     width: 960px;
     padding-top: 20px;
 }
+
+.portfolioContent{
+    background-color: white;
+    margin-left: 100px;
+    height: 800px;
+    width: 960px;
+    padding-top: 20px;
+}
+
+#hangman {
+    padding-top: 40px;
+    padding-left: 80px;
+    width: 150px;
+    height: 200px;
+    margin-right: 40px;
+}
+
+#rpg {
+    padding-top: 40px;
+    margin-right: 40px;
+    width: 150px;
+    height: 200px;
+}
+
+#trivia {
+    padding-top: 40px;
+    padding-left: 80px;
+    margin-right: 40px;
+    width: 150px;
+    height: 200px;
+}
+
+#info {
+    margin-right: 20px;
+    width: 150px;
+    height: 200px;
+}
+
+#scissors {
+    padding-top: 40px;
+    padding-left: 80px;
+    margin-right: 40px;
+    width: 150px;
+    height: 200px;
+}
+
+
 
 #profilePic {
     margin-left: 20px;
@@ -51,10 +96,13 @@ h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 30px;
     margin-left: 20px;
+    margin-right: 20px;
     margin-top: 10px;
     color: black;
     border-bottom: black;
     border-bottom-style: solid;
+
+    
 
 }
 

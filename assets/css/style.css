@@ -47,7 +47,7 @@ header {
 }
 
 #profilePic {
-    margin-left: 20px;
+    margin: 20px;
     width: 200px;
     height: 200px;
     float: left;

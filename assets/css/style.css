@@ -1,7 +1,8 @@
 
 body {
-     background-image: url("/Users/robbyheenan/Desktop/code/Basic-Portfolio/assets/images/dark-grey-terrazzo.png");
+    background-image: url("../images/curls/curls.png");
 }
+
 header {
     background-color: white;
     height:50px;
